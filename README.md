@@ -1,24 +1,14 @@
-# vuex
+<!--
+ * @Author: Sunny
+ * @Date: 2022-11-23 20:15:33
+ * @LastEditors: Suuny
+ * @LastEditTime: 2022-12-01 16:39:41
+ * @Description: 
+ * @FilePath: /Demo/README.md
+-->
+vuex 是个对象
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+this 指向问题如何解决
+https://juejin.cn/post/6844903917587791885
